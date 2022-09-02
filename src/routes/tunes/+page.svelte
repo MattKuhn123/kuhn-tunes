@@ -2,14 +2,14 @@
 	import { enhance } from '$lib/form';
 	import { scale } from 'svelte/transition';
 	import { flip } from 'svelte/animate';
-	import type { PageData } from './$types';
+	import type { PageData } from '../../../.svelte-kit/types/src/routes/todos/$types';
 
 	export let data: PageData;
 </script>
 
 <svelte:head>
-	<title>Todos</title>
-	<meta name="description" content="A todo list app" />
+	<title>Kuhn Tunes</title>
+	<meta name="description" content="A list of songs and music by Kuhn" />
 </svelte:head>
 
 <div class="todos">

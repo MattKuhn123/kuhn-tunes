@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>About</title>
+	<title>Kuhn Tunes</title>
 	<meta name="description" content="About this app" />
 </svelte:head>
 
@@ -20,7 +20,7 @@
 	</p>
 
 	<p>
-		The <a href="/todos">TODOs</a> page illustrates SvelteKit's data loading and form handling. Try using
+		The <a href="/tunes">Tunes</a> page illustrates SvelteKit's data loading and form handling. Try using
 		it with JavaScript disabled!
 	</p>
 </div>
