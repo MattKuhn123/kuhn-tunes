@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>Kuhn Tunes</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="music catalog" />
 </svelte:head>
 
 <section>
@@ -16,8 +16,11 @@
 			</picture>
 		</span>
 	</h1>
-
-	<Counter />
+	<p>
+		Welcome to Kuhn Tunes - built using Svelte, hosted in Cloudflare, and version-controled with Git in <a href="https://codeberg.org/Mattitiyahoo/kuhn-tunes">Codeberg</a>.
+		<br /> Peace, grace, and love,
+		<br /> - Matt Kuhn
+	</p>
 </section>
 
 <style>
