@@ -1,4 +1,5 @@
 <script lang="ts">
+	import AudioPlayer from '../../audio-player/AudioPlayer.svelte';
 	import type { PageData } from '../../../.svelte-kit/types/src/routes/tunes/$types';
 	
 	export let data: PageData;
@@ -13,10 +14,9 @@
 	<h1>Tunes</h1>
 </div>
 
-{#each data.tunes as tune}
-	<div>
-		<p>{tune.title}</p>
-	</div>
+{#each data.tunes as { src, title, group }}
+	<p class="title">{title} // <small>featured on: {group}</small></p>
+	<AudioPlayer {src} />
 {/each}
 
 <style>

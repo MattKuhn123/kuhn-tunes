@@ -4,13 +4,13 @@
         "group": "Razor Zen",
         "created": "",
         "tags": ["Arcade", "Slow"],
-        "link": "www.google.com"
+        "src": "/static/tunes/Razor-Zen.mp3"
     },
     {
         "title": "Sigma Taurus",
         "group": "Razor Zen",
         "created": "",
         "tags": ["Arcade", "Fast"],
-        "link": "https://www.google.com"
+        "src": "https://sveltejs.github.io/assets/music/strauss.mp3"
     }
 ]

@@ -7,7 +7,7 @@ type Tune = {
 	group: string;
 	created: string;
 	tags: string[];
-	link: string;
+	src: string;
 };
 
 export const load: PageServerLoad = async ({ locals }) => {
