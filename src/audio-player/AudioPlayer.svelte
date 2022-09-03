@@ -10,7 +10,7 @@
     import { onMount } from 'svelte'
   
     export /**
-    * @type {string | null | undefined}*/
+    * @type {string}*/
      let src
     
     /**

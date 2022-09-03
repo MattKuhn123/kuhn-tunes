@@ -1,6 +1,6 @@
 import tunes from '../../../static/db.json';
 
-import type { PageServerLoad, Action } from './$types';
+import type { PageServerLoad } from './$types';
 
 type Tune = {
 	title: string;

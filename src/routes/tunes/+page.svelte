@@ -7,7 +7,7 @@
 
 <svelte:head>
 	<title>Kuhn Tunes</title>
-	<meta name="description" content="A list of songs and music by Kuhn" />
+	<meta name="description" />
 </svelte:head>
 
 <div class="todos">

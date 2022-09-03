@@ -4,13 +4,29 @@
         "group": "Razor Zen",
         "created": "",
         "tags": ["Arcade", "Slow"],
-        "src": "https://codeberg.org/Mattitiyahoo/kuhn-tunes/src/branch/main/static/tunes/Razor-Zen.mp3"
+        "src": "./Razor-Zen.ogg"
     },
     {
         "title": "Sigma Taurus",
         "group": "Razor Zen",
         "created": "",
         "tags": ["Arcade", "Fast"],
-        "src": "https://sveltejs.github.io/assets/music/strauss.mp3"
+        "src": "./Sigma-Taurus.ogg"
+    }
+    ,
+    {
+        "title": "Ice Friction",
+        "group": "Razor Zen",
+        "created": "",
+        "tags": ["Arcade", "Fast"],
+        "src": "./Ice-Friction.ogg"
+    }
+    ,
+    {
+        "title": "Rip Jaw",
+        "group": "Razor Zen",
+        "created": "",
+        "tags": ["Arcade", "Fast"],
+        "src": "./Rip-Jaw.ogg"
     }
 ]
