@@ -2,31 +2,27 @@
     {
         "title": "Razor Zen",
         "group": "Razor Zen",
-        "created": "",
-        "tags": ["Arcade", "Slow"],
+        "created": "08/01/22",
         "src": "./Razor-Zen.ogg"
     },
     {
         "title": "Sigma Taurus",
         "group": "Razor Zen",
-        "created": "",
-        "tags": ["Arcade", "Fast"],
+        "created": "08/04/22",
         "src": "./Sigma-Taurus.ogg"
     }
     ,
     {
         "title": "Ice Friction",
         "group": "Razor Zen",
-        "created": "",
-        "tags": ["Arcade", "Fast"],
+        "created": "08/02/22",
         "src": "./Ice-Friction.ogg"
     }
     ,
     {
         "title": "Rip Jaw",
         "group": "Razor Zen",
-        "created": "",
-        "tags": ["Arcade", "Fast"],
+        "created": "08/03/22",
         "src": "./Rip-Jaw.ogg"
     }
 ]

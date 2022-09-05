@@ -5,8 +5,7 @@ import type { PageServerLoad } from './$types';
 type Tune = {
 	title: string;
 	group: string;
-	created: string;
-	tags: string[];
+	created: Date;
 	src: string;
 };
 
