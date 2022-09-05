@@ -1,7 +1,3 @@
-<script lang="ts">
-	import Counter from '$lib/Counter.svelte';
-</script>
-
 <svelte:head>
 	<title>Kuhn Tunes</title>
 	<meta name="description" content="music catalog" />
