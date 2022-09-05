@@ -29,7 +29,7 @@
         background: linear-gradient(
             90deg,
             var(--tertiary-color) 15%,
-            var(--primary-color) 60%,
+            var(--primary-color) 80%,
             var(--accent-color) 95%
 	    );
         display: flex;
