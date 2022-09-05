@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import logo from './svelte-logo.svg';
 </script>
 
 <header>
@@ -15,9 +14,6 @@
 			<li class:active={$page.url.pathname === '/'}>
 				<a href="/">Home</a>
 			</li>
-			<!--<li class:active={$page.url.pathname === '/about'}>
-				<a href="/about">About</a>
-			</li>-->
 			<li class:active={$page.url.pathname === '/tunes'}>
 				<a href="/tunes">Tunes</a>
 			</li>
@@ -28,7 +24,6 @@
 	</nav>
 
 	<div class="corner">
-		<!-- TODO put something else here? github link? -->
 	</div>
 </header>
 
