@@ -11,14 +11,14 @@
 	<h1>
 		<span class="welcome">
 			<picture>
-				<source srcset="svelte-welcome.webp" type="image/webp" />
-				<img src="svelte-welcome.png" alt="Welcome" />
+				<source srcset="kuhn-tunes.png" type="image/webp" />
+				<img src="kuhn-tunes.png" alt="Welcome" />
 			</picture>
 		</span>
 	</h1>
 	<p>
 		Welcome to Kuhn Tunes - built using Svelte, hosted in Cloudflare, and version-controled with Git in <a href="https://codeberg.org/Mattitiyahoo/kuhn-tunes">Codeberg</a>.
-		<br /> Peace, grace, and love,
+		<br /> Peace, grace and love,
 		<br /> - Matt Kuhn
 	</p>
 </section>
